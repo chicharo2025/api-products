@@ -1,0 +1,1498 @@
+{
+  "productos": [
+    {
+      "IdProducto": 1,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraazulblancoLA.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910786/gorraazulblancoLA_rembf2.jpg"
+    },
+    {
+      "IdProducto": 2,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraazulcontipoA.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910795/gorraazulcontipoA_ldfroh.jpg"
+    },
+    {
+      "IdProducto": 3,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraazulderayo.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910797/gorraazulderayo_v8qcb0.jpg"
+    },
+    {
+      "IdProducto": 4,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraazulgrisLa.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910786/gorraazulgrisLa_i1dazk.jpg"
+    },
+    {
+      "IdProducto": 5,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraazulletraverdeB.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910791/gorraazulletraverdeB_wb2htn.jpg"
+    },
+    {
+      "IdProducto": 6,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraazulltodaLA.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910779/gorraazulltodaLA_ykxdvi.jpg"
+    },
+    {
+      "IdProducto": 7,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraazulmoradoNY.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910789/gorraazulmoradoNY_vlhcqv.jpg"
+    },
+    {
+      "IdProducto": 8,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraazulsf.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910775/gorraazulsf_ckhji6.jpg"
+    },
+    {
+      "IdProducto": 9,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraazulSFcafe.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910774/gorraazulSFcafe_jxzvfg.jpg"
+    },
+    {
+      "IdProducto": 10,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraazulsoxblanca.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910775/gorraazulsoxblanca_eagdgv.jpg"
+    },
+    {
+      "IdProducto": 11,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraazulSOXgris.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910774/gorraazulSOXgris_qzk2p7.jpg"
+    },
+    {
+      "IdProducto": 12,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraAzultodaA.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910780/gorraAzultodaA_wk7fta.jpg"
+    },
+    {
+      "IdProducto": 13,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraazultodaAS.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910781/gorraazultodaAS_pmxymi.jpg"
+    },
+    {
+      "IdProducto": 14,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraazultodaNY.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910780/gorraazultodaNY_cyfchf.jpg"
+    },
+    {
+      "IdProducto": 15,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraazulNYblanca.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910776/gorraazulNYblanca_bajj96.jpg"
+    },
+    {
+      "IdProducto": 16,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraazulNYroja.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910775/gorraazulNYroja_qagkoy.jpg"
+    },
+    {
+      "IdProducto": 17,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraazulplataAA.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910792/gorraazulplataAA_mejjar.jpg"
+    },
+    {
+      "IdProducto": 18,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraazulplataBB.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910791/gorraazulplataBB_i9gnwx.jpg"
+    },
+    {
+      "IdProducto": 19,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraazulPplateda.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910778/gorraazulPplateda_qpe5yd.jpg"
+    },
+    {
+      "IdProducto": 20,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraazultodaSF.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910773/gorraazultodaSF_tyohwb.jpg"
+    },
+    {
+      "IdProducto": 21,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraazultodasoxxx.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910774/gorraazultodasoxx_sng8at.jpg"
+    },
+    {
+      "IdProducto": 22,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "GORRAAZULTOTALLA.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910792/GORRAAZULTOTALAA_opvr4s.jpg"
+    },
+    {
+      "IdProducto": 23,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorrablancatodaLA.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910781/gorrablancatodaLA_guel5z.jpg"
+    },
+    {
+      "IdProducto": 24,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorracafe-cafeLA.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910788/gorracafe-cafeLA_ssse5m.jpg"
+    },
+    {
+      "IdProducto": 25,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorradobleazulA.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910794/gorradobleazulA_acysma.jpg"
+    },
+    {
+      "IdProducto": 26,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorranaranjaO.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910813/gorranaranjadaO_r4pivd.jpg"
+    },
+    {
+      "IdProducto": 27,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorranegraAZULLA.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910789/gorranegraazulLA_ubnfr1.jpg"
+    },
+    {
+      "IdProducto": 28,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorranegratodaP.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910779/gorranegratodaP_m3ltgi.jpg"
+    },
+    {
+      "IdProducto": 29,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraNYADOBLEAZUL.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910794/gorraNYADOBLEazul_zdf4it.jpg"
+    },
+    {
+      "IdProducto": 30,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraplataB.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910795/gorraplataB_v6kxn0.jpg"
+    },
+    {
+      "IdProducto": 31,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraplataB2.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910794/gorraplataB2_uiuicg.jpg"
+    },
+    {
+      "IdProducto": 32,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorrasazulplataLA.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910793/gorrasazulplataLA_kif9zm.jpg"
+    },
+    {
+      "IdProducto": 33,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraverdeazulNY.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910778/gorraverdeazulNY_pxr7nh.jpg"
+    },
+    {
+      "IdProducto": 34,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraverdeblancaSF.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910790/gorraverdeblancaSF_qv8w3b.jpg"
+    },
+    {
+      "IdProducto": 35,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraverdecafeLA.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910783/gorraverdecafeLA_tdcjfp.jpg"
+    },
+    {
+      "IdProducto": 36,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraverdecafeLAopaca.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910782/gorraverdecafeLAopaca_mg5oql.jpg"
+    },
+    {
+      "IdProducto": 37,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraverdecafeSF.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910782/gorraverdecafesf_hjokch.jpg"
+    },
+    {
+      "IdProducto": 38,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraverdecafeSOX.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910783/gorraverdecafeSOX_nrgi4n.jpg"
+    },
+    {
+      "IdProducto": 39,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraverdecafeSOXOPACA.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910783/gorraverdecafeSOXOPACA_xksdjy.jpg"
+    },
+    {
+      "IdProducto": 40,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraverdeplataNY.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910784/gorraverdeplataNY_mvqqjk.jpg"
+    },
+    {
+      "IdProducto": 41,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraverdeplataSF.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910787/gorraverdeplataSF_mrplun.jpg"
+    },
+    {
+      "IdProducto": 42,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraverdetotalLA.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910793/gorraverdetotalLA_rdpas3.jpg"
+    },
+    {
+      "IdProducto": 43,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraverdeblancaNY.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910789/goarraverdeblancaNY_id54vv.jpg"
+    },
+    {
+      "IdProducto": 44,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraazul-azul.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910776/gorraazul-azul_lplu0j.jpg"
+    },
+    {
+      "IdProducto": 45,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraazul-azulLA.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910796/gorraazul-azulLA_z1u7ru.jpg"
+    },
+    {
+      "IdProducto": 46,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraazulazulBB.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910790/gorraazulazulBB_byv3x3.jpg"
+    },
+    {
+      "IdProducto": 47,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraazulblancaA.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910786/gorraazulblancaA_dgorhp.jpg"
+    },
+    {
+      "IdProducto": 48,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraazulblancaB.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910785/gorraazulblancaB_lunpgu.jpg"
+    },
+    {
+      "IdProducto": 49,
+      "Categoria": "BEISBOLERA PREMIUM",
+      "NombreArchivo": "gorraazulblancadobleb.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910784/gorraazulblancadobleb_k597sl.jpg"
+    },
+    {
+      "IdProducto": 50,
+      "Categoria": "DIAMANTE IMPORTADA",
+      "NombreArchivo": "gorraAroja.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762914404/gorraAroja_eypttd.jpg"
+    },
+    {
+      "IdProducto": 51,
+      "Categoria": "DIAMANTE IMPORTADA",
+      "NombreArchivo": "gorraAS.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762914407/gorraAS_qybamm.jpg"
+    },
+    {
+      "IdProducto": 52,
+      "Categoria": "DIAMANTE IMPORTADA",
+      "NombreArchivo": "gorraconrosas.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762914412/gorraconrosas_ko3326.jpg"
+    },
+    {
+      "IdProducto": 53,
+      "Categoria": "DIAMANTE IMPORTADA",
+      "NombreArchivo": "gorradoge.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762914410/gorradoge_mefwmo.jpg"
+    },
+    {
+      "IdProducto": 54,
+      "Categoria": "DIAMANTE IMPORTADA",
+      "NombreArchivo": "gorraLA.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762914409/gorraLA_vz1fsr.jpg"
+    },
+    {
+      "IdProducto": 55,
+      "Categoria": "DIAMANTE IMPORTADA",
+      "NombreArchivo": "gorraNY.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762914405/gorraNY_z3oxea.jpg"
+    },
+    {
+      "IdProducto": 56,
+      "Categoria": "EQUINAS-AGROPECUARIAS",
+      "NombreArchivo": "gorraazulcerdoverde.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762916288/gorraazulcerdoverde_e10kc7.jpg"
+    },
+    {
+      "IdProducto": 57,
+      "Categoria": "EQUINAS-AGROPECUARIAS",
+      "NombreArchivo": "gorraazultoro.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762914771/gorraazultoro_h1mqjb.jpg"
+    },
+    {
+      "IdProducto": 58,
+      "Categoria": "EQUINAS-AGROPECUARIAS",
+      "NombreArchivo": "gorrablanca2gallo.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762914723/gorrablanca2gallo_rlwyl7.jpg"
+    },
+    {
+      "IdProducto": 59,
+      "Categoria": "EQUINAS-AGROPECUARIAS",
+      "NombreArchivo": "gorrablancaadornos.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762914733/gorrablancaadornos_xszchs.jpg"
+    },
+    {
+      "IdProducto": 60,
+      "Categoria": "EQUINAS-AGROPECUARIAS",
+      "NombreArchivo": "gorrablancacafe.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762916297/gorrablancacafe_hdfpyx.jpg"
+    },
+    {
+      "IdProducto": 61,
+      "Categoria": "EQUINAS-AGROPECUARIAS",
+      "NombreArchivo": "gorrablancacafe2gallo.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762914720/gorrablancacafe2gallo_i7qjc8.jpg"
+    },
+    {
+      "IdProducto": 62,
+      "Categoria": "EQUINAS-AGROPECUARIAS",
+      "NombreArchivo": "gorrablancagallista.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762914717/gorrablancagallista_f3ciam.jpg"
+    },
+    {
+      "IdProducto": 63,
+      "Categoria": "EQUINAS-AGROPECUARIAS",
+      "NombreArchivo": "gorrablancagallonegro-blanco.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762914755/gorrablancagallonegro-blanco_xruvlg.jpg"
+    },
+    {
+      "IdProducto": 64,
+      "Categoria": "EQUINAS-AGROPECUARIAS",
+      "NombreArchivo": "gorrablancagallonegro.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762914764/gorrablancagallonegro_mazdpl.jpg"
+    },
+    {
+      "IdProducto": 65,
+      "Categoria": "EQUINAS-AGROPECUARIAS",
+      "NombreArchivo": "gorrablancagallonegroR.jpg",
+      "URL": "/assets/EQUINAS-AGROPECUARIAS/gorrablancagallonegroR.jpg"
+    },
+    {
+      "IdProducto": 66,
+      "Categoria": "EQUINAS-AGROPECUARIAS",
+      "NombreArchivo": "gorrablancagalloplata.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762914753/gorrablancagalloplata_ehvyzq.jpg"
+    },
+    {
+      "IdProducto": 67,
+      "Categoria": "EQUINAS-AGROPECUARIAS",
+      "NombreArchivo": "gorrablancatorocafe.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762916283/gorrablancatorocafe_a9z69m.jpg"
+    },
+    {
+      "IdProducto": 68,
+      "Categoria": "EQUINAS-AGROPECUARIAS",
+      "NombreArchivo": "gorracafenegracerdo.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762916292/gorracafenegracerdo_jbl9ho.jpg"
+    },
+    {
+      "IdProducto": 69,
+      "Categoria": "EQUINAS-AGROPECUARIAS",
+      "NombreArchivo": "gorragallo.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762916300/gorragallo_ctlwsd.jpg"
+    },
+    {
+      "IdProducto": 70,
+      "Categoria": "EQUINAS-AGROPECUARIAS",
+      "NombreArchivo": "gorragalloazul.jpg",
+      "URL": "/assets/EQUINAS-AGROPECUARIAS/gorragalloazul.jpg"
+    },
+    {
+      "IdProducto": 71,
+      "Categoria": "EQUINAS-AGROPECUARIAS",
+      "NombreArchivo": "gorragallocafé.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762916302/gorragallocafe_fkexdk.jpg"
+    },
+    {
+      "IdProducto": 72,
+      "Categoria": "EQUINAS-AGROPECUARIAS",
+      "NombreArchivo": "gorragallista.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762914715/gorragallsita_hsb8f6.jpg"
+    },
+    {
+      "IdProducto": 73,
+      "Categoria": "EQUINAS-AGROPECUARIAS",
+      "NombreArchivo": "gorranegrablancacerdo.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762916293/gorranegrablancacerdo_jalqt9.jpg"
+    },
+    {
+      "IdProducto": 74,
+      "Categoria": "EQUINAS-AGROPECUARIAS",
+      "NombreArchivo": "gorranegragallolero.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762914727/gorranegragallero_kdj99f.jpg"
+    },
+    {
+      "IdProducto": 75,
+      "Categoria": "EQUINAS-AGROPECUARIAS",
+      "NombreArchivo": "gorranegragalloadornos.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762914725/gorranegragalloadornos_od8t5n.jpg"
+    },
+    {
+      "IdProducto": 76,
+      "Categoria": "EQUINAS-AGROPECUARIAS",
+      "NombreArchivo": "gorrarojagallonegro.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762914761/gorrarojagallonegro_zkz7xs.jpg"
+    },
+    {
+      "IdProducto": 77,
+      "Categoria": "EQUINAS-AGROPECUARIAS",
+      "NombreArchivo": "gorratorocafe.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762916307/gorratorocafe_omfkqm.jpg"
+    },
+    {
+      "IdProducto": 78,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorrarojaymorada9.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762950188/gorrarojaymorada9_sufoqt.jpg"
+    },
+    {
+      "IdProducto": 79,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorrasazuldelbuldog.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762949687/gorrasazuldelbuldog_ebyrlc.jpg"
+    },
+    {
+      "IdProducto": 80,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorrasgriselfante8.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762950188/gorrasgriselfante8_czzieu.jpg"
+    },
+    {
+      "IdProducto": 81,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorrastaysazulsocuro14.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762950181/gorrastaysazulsocuro14_mt0k0o.jpg"
+    },
+    {
+      "IdProducto": 82,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorraverdeA.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762949686/gorraverdeA_tb21c5.jpg"
+    },
+    {
+      "IdProducto": 83,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorraverdeamarillab29.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762949732/gorraverdeamarillab29_z5qcus.jpg"
+    },
+    {
+      "IdProducto": 84,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorraverdeNY31.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762949687/gorraverdeNY31_ps285t.jpg"
+    },
+    {
+      "IdProducto": 85,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "goorraazulyrojadew16.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762950179/goorraazulyrojadew16_h36bi1.jpg"
+    },
+    {
+      "IdProducto": 86,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorraamariloverde27.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762950166/gorraamariloverde27_svud2a.jpg"
+    },
+    {
+      "IdProducto": 87,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorraazul-cieloNY25.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762950167/gorraazul-cieloNY25_dyvvzj.jpg"
+    },
+    {
+      "IdProducto": 88,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorraazulcielocesta15.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762951606/gorraazulcielocesta15_wrob5t.jpg"
+    },
+    {
+      "IdProducto": 89,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorraazulcieloLA21.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762950168/gorraazulcieloLA21_ickroq.jpg"
+    },
+    {
+      "IdProducto": 90,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorraazulcieloSox30.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762951578/gorraazulcieloSOX30_cmy8ux.jpg"
+    },
+    {
+      "IdProducto": 91,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorraazulclaoNY6.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762950190/gorraazulclaoNY6_ookwod.jpg"
+    },
+    {
+      "IdProducto": 92,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorraazulclarothunder10.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762950187/gorraazulclarothunder10_wdqfuz.jpg"
+    },
+    {
+      "IdProducto": 93,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorraazulnaranjasf17.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762950179/gorraazulnaranjasf17_daqqth.jpg"
+    },
+    {
+      "IdProducto": 94,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorraazuloscuro-giant7.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762951618/gorraazuloscuro-giant7_mlsged.jpg"
+    },
+    {
+      "IdProducto": 95,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorraazulroja4.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762950194/gorraazulroja4_ou23az.jpg"
+    },
+    {
+      "IdProducto": 96,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorrablancacafeAs23.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762950168/gorrablancacafeAs23_kaa3qo.jpg"
+    },
+    {
+      "IdProducto": 97,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorrablancaestrella11.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762951612/gorrablancaestrella11_hmuybg.jpg"
+    },
+    {
+      "IdProducto": 98,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorradamorada-blanca2.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762951629/gorradamorada-blanca2_kpneus.jpg"
+    },
+    {
+      "IdProducto": 99,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorranegraSOX26.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762951586/gorranegraSOX26_rkjnfu.jpg"
+    },
+    {
+      "IdProducto": 100,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "GORRANYnegra30.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762949687/GORRANYnegra30_ambr63.jpg"
+    },
+    {
+      "IdProducto": 101,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorrarnegrorojosanfranciso12.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762950186/gorrarnegrorojosanfranciso12_lvly9b.jpg"
+    },
+    {
+      "IdProducto": 102,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorrarojaB.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762951461/gorrarojaB_vdofpp.jpg"
+    },
+    {
+      "IdProducto": 103,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorranegrad19.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762951598/gorranegrad19_jvi6xh.jpg"
+    },
+    {
+      "IdProducto": 104,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorranegraKINGS13.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762951608/gorranegraKINGS13_vxvshs.jpg"
+    },
+    {
+      "IdProducto": 105,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorranegralacaLa-california22.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762951592/gorranegralacaLa-california22_xqmrrj.jpg"
+    },
+    {
+      "IdProducto": 106,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorranegraM24.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762951589/gorranegraM_24_ousjeo.jpg"
+    },
+    {
+      "IdProducto": 107,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorranegramarilla-tb3.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762950194/gorranegramarilla-tb3_nrukha.jpg"
+    },
+    {
+      "IdProducto": 108,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorranegraNYS20.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762951596/gorranegraNYS20_jfghy8.jpg"
+    },
+    {
+      "IdProducto": 109,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorranegrasencilla.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762949687/gorranegrasencilla_ifamjo.jpg"
+    },
+    {
+      "IdProducto": 110,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorramorada1.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762950195/gorramorada1_yyw24c.jpg"
+    },
+    {
+      "IdProducto": 111,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorranaranjaazul5.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762951626/gorranaranjaazul5_ipcjrw.jpg"
+    },
+    {
+      "IdProducto": 112,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorranaranjas218.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762951600/gorranaranjas218_c3tpqs.jpg"
+    },
+    {
+      "IdProducto": 113,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorranegardewnike.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762949687/gorranegardewnike_ipkg7b.jpg"
+    },
+    {
+      "IdProducto": 114,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorranegraB.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762951462/gorranegraB_t1oyhv.jpg"
+    },
+    {
+      "IdProducto": 115,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorranegraBB28.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762949812/gorranegraBB28_wlkjv9.jpg"
+    },
+    {
+      "IdProducto": 116,
+      "Categoria": "NIKE 1.1",
+      "NombreArchivo": "gorranegracomlot.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762951571/gorranegracomlot_cznies.jpg"
+    },
+    {
+      "IdProducto": 117,
+      "Categoria": "EXCLUSIVA 1.1",
+      "NombreArchivo": "gorraletras.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762956761/gorraletras_hh9lvu.jpg"
+    },
+    {
+      "IdProducto": 118,
+      "Categoria": "EXCLUSIVA 1.1",
+      "NombreArchivo": "gorraangel.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762956755/gorraangel_tveggt.jpg"
+    },
+    {
+      "IdProducto": 119,
+      "Categoria": "EXCLUSIVA 1.1",
+      "NombreArchivo": "gorracafe.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762956756/gorracafe_mv4wfq.jpg"
+    },
+    {
+      "IdProducto": 120,
+      "Categoria": "EXCLUSIVA 1.1",
+      "NombreArchivo": "gorracafecerebro.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762956760/gorracafecerebro_cbwnxe.jpg"
+    },
+    {
+      "IdProducto": 121,
+      "Categoria": "EXCLUSIVA 1.1",
+      "NombreArchivo": "gorranegra.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762956756/gorranegra_ohyzgv.jpg"
+    },
+    {
+      "IdProducto": 122,
+      "Categoria": "EXCLUSIVA 1.1",
+      "NombreArchivo": "gorranube.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762956762/gorranube_jrten0.jpg"
+    },
+    {
+      "IdProducto": 123,
+      "Categoria": "EXCLUSIVA 1.1",
+      "NombreArchivo": "gorraplaayt.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762956758/gorraplaayt_cd7ahr.jpg"
+    },
+    {
+      "IdProducto": 124,
+      "Categoria": "EXCLUSIVA 1.1",
+      "NombreArchivo": "gorrayioanta.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762956758/gorrayioanta_ara98q.jpg"
+    },
+    {
+      "IdProducto": 125,
+      "Categoria": "EXCLUSIVA 1.1",
+      "NombreArchivo": "gorrayion.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762956758/gorrayion_upq0oo.jpg"
+    },
+    {
+      "IdProducto": 126,
+      "Categoria": "EXCLUSIVA 1.1",
+      "NombreArchivo": "gorrayt.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762956758/gorrayt_jx55kg.jpg"
+    },
+    {
+      "IdProducto": 127,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorramonasterymalla.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957915/gorramonasterymalla_o0rm13.jpg"
+    },
+    {
+      "IdProducto": 128,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorranegraundld.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957902/gorranegraundld_uh9wwr.jpg"
+    },
+    {
+      "IdProducto": 129,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorraamiriblanca.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957956/gorraamiriblanca_xuguvk.jpg"
+    },
+    {
+      "IdProducto": 130,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorraamirigris.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957961/gorraamirigris_km4asg.jpg"
+    },
+    {
+      "IdProducto": 131,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorraamiriplateada.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957952/gorraamiriplaeada_ugwmxz.jpg"
+    },
+    {
+      "IdProducto": 132,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorrablanca-negraclemont",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957947/gorrablanca-negraclemont_cofoqg.jpg"
+    },
+    {
+      "IdProducto": 133,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorrablancarosa.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957944/gorrablancarosa_tt88y8.jpg"
+    },
+    {
+      "IdProducto": 134,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorrasuepremejordan.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957885/gorrasuepremejordan_namavp.jpg"
+    },
+    {
+      "IdProducto": 135,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorrablancauc.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957936/gorrablancauc_rvz1yr.jpg"
+    },
+    {
+      "IdProducto": 136,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorracafeclemont.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957932/gorracafeclemont_xqpclu.jpg"
+    },
+    {
+      "IdProducto": 137,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorraadoramonastery.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957931/gorradoaradamonastery_svnsws.jpg"
+    },
+    {
+      "IdProducto": 138,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorrablancasupreme.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957940/gorrablancasupreme_tnp7zb.jpg"
+    },
+    {
+      "IdProducto": 139,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorradoradarosa.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957928/gorradoradarosa_xoytus.jpg"
+    },
+    {
+      "IdProducto": 140,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorraestrelladorada.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957929/gorraestrelladorada_c8igrn.jpg"
+    },
+    {
+      "IdProducto": 141,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorragrisclemont.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957925/gorragrisclemont_svvevh.jpg"
+    },
+    {
+      "IdProducto": 142,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorrahellstarblanca.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957921/gorrahellstarblanca_hjxpye.jpg"
+    },
+    {
+      "IdProducto": 143,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorrahellsatrblanca.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957923/gorrahellsatrblanca_fhwdr1.jpg"
+    },
+    {
+      "IdProducto": 144,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorrahellstarcombinada.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957920/gorrahellstarcombinada_aegahh.jpg"
+    },
+    {
+      "IdProducto": 145,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorramonasteryblanca.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957928/gorramonasteryblanca_ygcxg3.jpg"
+    },
+    {
+      "IdProducto": 146,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorrapastelmonastery.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957894/gorrapastelmonastery_u8rknm.jpg"
+    },
+    {
+      "IdProducto": 147,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorraroja.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957894/gorraroja_lmhcch.jpg"
+    },
+    {
+      "IdProducto": 148,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorrarojac.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957893/gorrarojaC_gl8rha.jpg"
+    },
+    {
+      "IdProducto": 149,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorrarojaclemont.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957895/gorrarojaclemont_itembf.jpg"
+    },
+    {
+      "IdProducto": 150,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorrasmonasteryblanquizal.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957887/gorrasmonasteryblanquizal_uvgqhj.jpg"
+    },
+    {
+      "IdProducto": 151,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorrasmonasteryverde.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957886/gorrasmonasteryverde_nisvlb.jpg"
+    },
+    {
+      "IdProducto": 152,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorranegralisavndylrd.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957908/gorranegralisavndylrd_vt88ca.jpg"
+    },
+    {
+      "IdProducto": 153,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorranegrauc.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957910/gorranegrauc_k4rrux.jpg"
+    },
+    {
+      "IdProducto": 154,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorranegraunder.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957903/gorranegraunder_dxhjyq.jpg"
+    },
+    {
+      "IdProducto": 155,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorranegravnd.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957901/gorranegravnd_jbl2y3.jpg"
+    },
+    {
+      "IdProducto": 156,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorrablancachromebeart.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957956/gorrablancachromebeart_amqbro.jpg"
+    },
+    {
+      "IdProducto": 157,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorrapastelC.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957897/gorrapastelC_cmwm2v.jpg"
+    },
+    {
+      "IdProducto": 158,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorrablanca.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957946/gorrablanca_tftlpp.jpg"
+    },
+    {
+      "IdProducto": 159,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorrablancaadornoclemont.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957949/gorrablancaadornoclemont_tlzpck.jpg"
+    },
+    {
+      "IdProducto": 160,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorrablancaC.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957955/gorrablancaC_rn4jjj.jpg"
+    },
+    {
+      "IdProducto": 161,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorrablancalisa.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957939/gorrablancalisa_acwq76.jpg"
+    },
+    {
+      "IdProducto": 162,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorramonasterygris.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957919/gorramonasterygris_ij6ksq.jpg"
+    },
+    {
+      "IdProducto": 163,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorramonasterynegra.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957914/gorramonasterynegra_a25ejh.jpg"
+    },
+    {
+      "IdProducto": 164,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorramonasteryopaca.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957915/gorramonasteryopaca_nzvphv.jpg"
+    },
+    {
+      "IdProducto": 165,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorranegraestudio.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957918/gorranegraestudio_st0mha.jpg"
+    },
+    {
+      "IdProducto": 166,
+      "Categoria": "MULTIMARCA",
+      "NombreArchivo": "gorranegrahellstar.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762957909/gorranegrahellstar_ykm8fh.jpg"
+    },
+    {
+      "IdProducto": 167,
+      "Categoria": "PREMIUM",
+      "NombreArchivo": "gorragriscc.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762987061/gorragriscc_dt9otq.jpg"
+    },
+    {
+      "IdProducto": 168,
+      "Categoria": "PREMIUM",
+      "NombreArchivo": "gorrahugoboss.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762987076/gorrahugoboss_ev6z54.jpg"
+    },
+    {
+      "IdProducto": 169,
+      "Categoria": "PREMIUM",
+      "NombreArchivo": "gorramarronCC.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762987049/gorramarronCC_gjngm5.jpg"
+    },
+    {
+      "IdProducto": 170,
+      "Categoria": "PREMIUM",
+      "NombreArchivo": "gorramoraCC.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762987048/gorramoraCC_f7fdd7.jpg"
+    },
+    {
+      "IdProducto": 171,
+      "Categoria": "PREMIUM",
+      "NombreArchivo": "gorranegraCC.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762987060/gorranegraCC_fwtqyn.jpg"
+    },
+    {
+      "IdProducto": 172,
+      "Categoria": "PREMIUM",
+      "NombreArchivo": "gorranegraicon.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762987048/gorranegraicon_hjfhfh.jpg"
+    },
+    {
+      "IdProducto": 173,
+      "Categoria": "PREMIUM",
+      "NombreArchivo": "gorraoscuroCC.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762987050/gorraoscuroCC_utbmvk.jpg"
+    },
+    {
+      "IdProducto": 174,
+      "Categoria": "PREMIUM",
+      "NombreArchivo": "gorraazulCC.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762987060/gorraazulCC_iuuvrq.jpg"
+    },
+    {
+      "IdProducto": 175,
+      "Categoria": "PREMIUM",
+      "NombreArchivo": "gorraazulcc.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762987048/gorraazulcc_pddthv.jpg"
+    },
+    {
+      "IdProducto": 176,
+      "Categoria": "PREMIUM",
+      "NombreArchivo": "gorraazuliocn.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762987047/gorraazuliocn_r64g5o.jpg"
+    },
+    {
+      "IdProducto": 177,
+      "Categoria": "PREMIUM",
+      "NombreArchivo": "gorracafecC.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762987061/gorracafeCC_wwv4fm.jpg"
+    },
+    {
+      "IdProducto": 178,
+      "Categoria": "PREMIUM",
+      "NombreArchivo": "gorraclaracc.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762987061/gorracafeCC_wwv4fm.jpg"
+    },
+    {
+      "IdProducto": 179,
+      "Categoria": "PREMIUM",
+      "NombreArchivo": "gorradoaradaCC.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762987049/gorradoaradaCC_jt19n9.jpg"
+    },
+    {
+      "IdProducto": 180,
+      "Categoria": "PREMIUM",
+      "NombreArchivo": "gorraplateadaCC.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762987059/gorraplateadaCC_jbr70i.jpg"
+    },
+    {
+      "IdProducto": 181,
+      "Categoria": "PREMIUM",
+      "NombreArchivo": "gorrarojaazul.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762987047/gorrarojaazul_ncn9cz.jpg"
+    },
+    {
+      "IdProducto": 182,
+      "Categoria": "PREMIUM",
+      "NombreArchivo": "gorrasazulquered.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762987047/gorrasazulquered_tcneqo.jpg"
+    },
+    {
+      "IdProducto": 183,
+      "Categoria": "PREMIUM",
+      "NombreArchivo": "gorrasupremenaranajda.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762987076/gorrasupremenaranajda_umzp3d.jpg"
+    },
+    {
+      "IdProducto": 184,
+      "Categoria": "N 1.1",
+      "NombreArchivo": "negraconelescudo.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762988183/negraconelescudo_zzh4l9.jpg"
+    },
+    {
+      "IdProducto": 185,
+      "Categoria": "N 1.1",
+      "NombreArchivo": "negraconelescudoverde.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762988184/negraconelescudoverde_pazamj.jpg"
+    },
+    {
+      "IdProducto": 186,
+      "Categoria": "N 1.1",
+      "NombreArchivo": "verdenacionalicon.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762988186/verdenacionalcon_knj0lf.jpg"
+    },
+    {
+      "IdProducto": 187,
+      "Categoria": "PLANA CERRADA",
+      "NombreArchivo": "gorraazulNY.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762988571/gorraazulNY_huym2t.jpg"
+    },
+    {
+      "IdProducto": 188,
+      "Categoria": "PLANA CERRADA",
+      "NombreArchivo": "gorrablancabuks.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762988568/gorrablancabuks_ll8ymc.jpg"
+    },
+    {
+      "IdProducto": 189,
+      "Categoria": "PLANA CERRADA",
+      "NombreArchivo": "gorranegraceltics.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762988567/gorranegraceltics_isriex.jpg"
+    },
+    {
+      "IdProducto": 190,
+      "Categoria": "PLANA CERRADA",
+      "NombreArchivo": "gorranegrajordan.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762988576/gorranegrajordan_arghad.jpg"
+    },
+    {
+      "IdProducto": 191,
+      "Categoria": "PLANA CERRADA",
+      "NombreArchivo": "gorrablancajordan.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762988582/gorranegrajordan_onbciq.jpg"
+    },
+    {
+      "IdProducto": 192,
+      "Categoria": "PLANA CERRADA",
+      "NombreArchivo": "gorranegralarkes.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762988574/gorranegralarkes_wia94w.jpg"
+    },
+    {
+      "IdProducto": 193,
+      "Categoria": "PLANA CERRADA",
+      "NombreArchivo": "gorranegratoro.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762988588/gorranegratoro_t9ycan.jpg"
+    },
+    {
+      "IdProducto": 194,
+      "Categoria": "PLANA CERRADA",
+      "NombreArchivo": "gorrarojabulls.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762988581/gorrarojabulls_dxxcxc.jpg"
+    },
+    {
+      "IdProducto": 195,
+      "Categoria": "PLANA CERRADA",
+      "NombreArchivo": "gorrarojaheats.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762988584/gorrarojaheats_c0pb28.jpg"
+    },
+    {
+      "IdProducto": 196,
+      "Categoria": "PLANA CERRADA",
+      "NombreArchivo": "gorrarojajordan.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762988578/gorrarojajordan_zksgez.jpg"
+    },
+    {
+      "IdProducto": 197,
+      "Categoria": "PLANA CERRADA",
+      "NombreArchivo": "gorrasfnegra.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762988589/gorrasfnegra_twgiol.jpg"
+    },
+    {
+      "IdProducto": 198,
+      "Categoria": "PLANA CERRADA",
+      "NombreArchivo": "gorraverdebucks.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762988575/gorraverdebucks_srivfc.jpg"
+    },
+    {
+      "IdProducto": 199,
+      "Categoria": "PLANA CERRADA",
+      "NombreArchivo": "gorraverdeceltic.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762988586/gorraverdeceltic_oldsar.jpg"
+    },
+    {
+      "IdProducto": 200,
+      "Categoria": "PLANA CERRADA",
+      "NombreArchivo": "gorraazulplataAA.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910792/gorraazulplataAA_mejjar.jpg"
+    },
+    {
+      "IdProducto": 201,
+      "Categoria": "PLANA CERRADA",
+      "NombreArchivo": "gorraazulplataBB.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910791/gorraazulplataBB_i9gnwx.jpg"
+    },
+    {
+      "IdProducto": 202,
+      "Categoria": "PLANA CERRADA",
+      "NombreArchivo": "gorraazulPplateda.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762910778/gorraazulPplateda_qpe5yd.jpg"
+    },
+    {
+      "IdProducto": 203,
+      "Categoria": "PORTAGORRAS",
+      "NombreArchivo": "portagorras-1sencillo.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762994460/portagorras-1sencillo_xxe5hf.jpg"
+    },
+    {
+      "IdProducto": 204,
+      "Categoria": "PORTAGORRAS",
+      "NombreArchivo": "portagorrablowup4.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762994456/portagorrablowup4_g2j684.jpg"
+    },
+    {
+      "IdProducto": 205,
+      "Categoria": "PORTAGORRAS",
+      "NombreArchivo": "portagorras3newera.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762994457/portagorras3newera_drohtw.jpg"
+    },
+    {
+      "IdProducto": 206,
+      "Categoria": "PORTAGORRAS",
+      "NombreArchivo": "posrtagorrasadidas.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762994455/posrtagorrasadidas_xu90gp.jpg"
+    },
+    {
+      "IdProducto": 207,
+      "Categoria": "PLANA IMPORTADA",
+      "NombreArchivo": "gorranegraA.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762995519/gorranegraA_yxzudv.jpg"
+    },
+    {
+      "IdProducto": 208,
+      "Categoria": "PLANA IMPORTADA",
+      "NombreArchivo": "gorranegraAA.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762995130/gorranegraAA_zkdg1e.jpg"
+    },
+    {
+      "IdProducto": 209,
+      "Categoria": "PLANA IMPORTADA",
+      "NombreArchivo": "gorranegraAS.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762995520/gorranegraAS_mb6xsw.jpg"
+    },
+    {
+      "IdProducto": 210,
+      "Categoria": "PLANA IMPORTADA",
+      "NombreArchivo": "gorranegraheast.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762995583/gorranegraheast_iji0cx.jpg"
+    },
+    {
+      "IdProducto": 211,
+      "Categoria": "PLANA IMPORTADA",
+      "NombreArchivo": "gorranegraheatss.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762995585/gorranegraheatss_mphchc.jpg"
+    },
+    {
+      "IdProducto": 212,
+      "Categoria": "PLANA IMPORTADA",
+      "NombreArchivo": "gorranegralakers.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762995518/gorranegralakers_a8wjwu.jpg"
+    },
+    {
+      "IdProducto": 213,
+      "Categoria": "PLANA IMPORTADA",
+      "NombreArchivo": "gorranegraNY.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762995516/gorranegraNY_ptueb7.jpg"
+    },
+    {
+      "IdProducto": 214,
+      "Categoria": "PLANA IMPORTADA",
+      "NombreArchivo": "gorra76.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762995580/gorra76_lq3g6y.jpg"
+    },
+    {
+      "IdProducto": 215,
+      "Categoria": "PLANA IMPORTADA",
+      "NombreArchivo": "gorragrisNY.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1762995131/gorragrisNY_oc5exl.jpg"
+    },
+    {
+      "IdProducto": 216,
+      "Categoria": "Relojes",
+      "NombreArchivo": "azulmx60ot.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763002075/azulmx60ot_oal8yb.jpg"
+    },
+    {
+      "IdProducto": 217,
+      "Categoria": "Relojes",
+      "NombreArchivo": "richarnegro.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763002076/richarnegro_p6m73v.jpg"
+    },
+    {
+      "IdProducto": 218,
+      "Categoria": "Relojes",
+      "NombreArchivo": "sportredondoazul.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763002075/sportredondoazul_quo4td.jpg"
+    },
+    {
+      "IdProducto": 219,
+      "Categoria": "Relojes",
+      "NombreArchivo": "sportwatchnegro.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763002075/sportwatchnegro_e5gjcp.jpg"
+    },
+    {
+      "IdProducto": 220,
+      "Categoria": "Relojes",
+      "NombreArchivo": "waterprof.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763002076/waterprof_jjhpuu.jpg"
+    },
+    {
+      "IdProducto": 221,
+      "Categoria": "Relojes",
+      "NombreArchivo": "wf175.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763002075/wf175_ipgyhn.jpg"
+    },
+    {
+      "IdProducto": 222,
+      "Categoria": "Relojes",
+      "NombreArchivo": "wf275.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763002075/wf275_vyh72t.jpg"
+    },
+    {
+      "IdProducto": 223,
+      "Categoria": "camisetas",
+      "NombreArchivo": "TALLA  M-bloow upnegra.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763003708/TALLA_M-bloow_upnegra_kh8aea.jpg"
+    },
+    {
+      "IdProducto": 224,
+      "Categoria": "camisetas",
+      "NombreArchivo": "TALLA -3XL youtnegra.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763003707/TALLA_-3XL_youtnegra_u7j7f0.jpg"
+    },
+    {
+      "IdProducto": 225,
+      "Categoria": "camisetas",
+      "NombreArchivo": "TALLA-XLmonasterynegro.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763003706/TALLA_-XLmonasterynegro_jqevma.jpg"
+    },
+    {
+      "IdProducto": 226,
+      "Categoria": "camisetas",
+      "NombreArchivo": "TALLA 2XL (blanca-yout).jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763047293/TALLA%202XL%20%28blanca-yout%29.jpg"
+    },
+    {
+      "IdProducto": 227,
+      "Categoria": "camisetas",
+      "NombreArchivo": "TALLA 2XL (youtbalncaazul)",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763047293/TALLA_2XL_youtbalncaazul_wsaxuc.jpg"
+    },
+    {
+      "IdProducto": 228,
+      "Categoria": "camisetas",
+      "NombreArchivo": "TALLA 2XL clemont blanca.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763003706/TALLA_2XL_clemont_blanca_e0h9rz.jpg"
+    },
+    {
+      "IdProducto": 229,
+      "Categoria": "camisetas",
+      "NombreArchivo": "TALLA 3XL atelier negra.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763003701/TALLA_3XL_atelier_negra_wqq6ui.jpg"
+    },
+    {
+      "IdProducto": 230,
+      "Categoria": "camisetas",
+      "NombreArchivo": "TALLA L (1) monasterycuellonegro.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763047292/TALLA_L_1_monasterycuellonegro_n5khon.jpg"
+    },
+    {
+      "IdProducto": 231,
+      "Categoria": "camisetas",
+      "NombreArchivo": "TALLA L (2)monsateryblanca.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763047291/TALLA_L_2_monsateryblanca_vh2gyc.jpg"
+    },
+    {
+      "IdProducto": 232,
+      "Categoria": "camisetas",
+      "NombreArchivo": "TALLA L (3)clemontcafe.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763047291/TALLA_L_3_clemontcafe_l2ddoq.jpg"
+    },
+    {
+      "IdProducto": 233,
+      "Categoria": "camisetas",
+      "NombreArchivo": "TALLA L (4)monasestryestampado.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763047292/TALLA_L_4_monasestryestampado_ijstay.jpg"
+    },
+    {
+      "IdProducto": 234,
+      "Categoria": "camisetas",
+      "NombreArchivo": "TALLA L (5)clemontblancamano.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763047291/TALLA_L_5_clemontblancamano_rccfrn.jpg"
+    },
+    {
+      "IdProducto": 235,
+      "Categoria": "camisetas",
+      "NombreArchivo": "TALLA L blancabasement.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763047294/TALLA_L_blancabasement_ikbsjz.jpg"
+    },
+    {
+      "IdProducto": 236,
+      "Categoria": "camisetas",
+      "NombreArchivo": "TALLA M (1)clemontnegra.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763003688/TALLA_M_1_clemontnegra_ov2epv.jpg"
+    },
+    {
+      "IdProducto": 237,
+      "Categoria": "camisetas",
+      "NombreArchivo": "TALLA M (2)clemontnegra.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763047290/TALLA_M_2_clemontnegra_tzz8ej.jpg"
+    },
+    {
+      "IdProducto": 238,
+      "Categoria": "camisetas",
+      "NombreArchivo": "TALLA M (3) youtflecha.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763002983/TALLA_M_3_youtflecha_hphfng.jpg"
+    },
+    {
+      "IdProducto": 239,
+      "Categoria": "camisetas",
+      "NombreArchivo": "TALLA M (4)monasteryastronuata.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763047288/TALLA_M_4_monasteryastronuata_lblh3z.jpg"
+    },
+    {
+      "IdProducto": 240,
+      "Categoria": "camisetas",
+      "NombreArchivo": "TALLA M-L (1) clemontnegra.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763003688/TALLA_M_1_clemontnegra_ov2epv.jpg"
+    },
+    {
+      "IdProducto": 241,
+      "Categoria": "camisetas",
+      "NombreArchivo": "TALLA M-Lclemontletraamarilla.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763047287/TALLA_M-Lclemontletraamarilla_pdaeax.jpg"
+    },
+    {
+      "IdProducto": 242,
+      "Categoria": "camisetas",
+      "NombreArchivo": "TALLA Mclemontangeles.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763047290/TALLA_Mclemontangeles_lpgz9q.jpg"
+    },
+    {
+      "IdProducto": 243,
+      "Categoria": "camisetas",
+      "NombreArchivo": "TALLA XL (1)clemontangelesazul.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763047290/TALLA_XL_1_clemontangelesazul_uhlenz.jpg"
+    },
+    {
+      "IdProducto": 244,
+      "Categoria": "camisetas",
+      "NombreArchivo": "TALLA XL (2)clemontblancaplaya.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763002901/TALLA_XL_2_clemontblancaplaya_c781uz.jpg"
+    },
+    {
+      "IdProducto": 245,
+      "Categoria": "camisetas",
+      "NombreArchivo": "TALLA XL (3)clemontverdecupido.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763002900/TALLA_XL_3_clemontverdecupido_ej0rtq.jpg"
+    },
+    {
+      "IdProducto": 246,
+      "Categoria": "camisetas",
+      "NombreArchivo": "TALLA XL (4)monasteryconcara.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763002862/TALLA_XL_4_monasteryconcara_bi04ud.jpg"
+    },
+    {
+      "IdProducto": 247,
+      "Categoria": "camisetas",
+      "NombreArchivo": "TALLA XL monastery cuellocafe .jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763047286/TALLA_XL_monastery_cuellocafe_wtmzzt.jpg"
+    },
+    {
+      "IdProducto": 248,
+      "Categoria": "camisetas",
+      "NombreArchivo": "TALLA XLyuogris.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763002902/TALLA_XLyuogris_reahso.jpg"
+    },
+    {
+      "IdProducto": 249,
+      "Categoria": "camisetas",
+      "NombreArchivo": "TALLA XXL (1)monasterycuelloblanco.jpg",
+      "URL": "https://res.cloudinary.com/dxc5qqsjd/image/upload/v1763047282/TALLA_XXL_1_monasterycuelloblanco_dcgc6i.jpg"
+    }
+  ]
+}
