@@ -8,14 +8,11 @@
     "dev": "node server.js"
   },
   "dependencies": {
-    "express": "^4.18.2",
+    "express": "^4.18.0",
     "axios": "^1.6.0",
     "cors": "^2.8.5"
   },
-  "keywords": ["api", "products", "json-server"],
-  "author": "",
-  "license": "ISC",
   "engines": {
-    "node": ">=18.x"
+    "node": "18.x"
   }
 }

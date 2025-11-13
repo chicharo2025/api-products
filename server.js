@@ -1,19 +1,3 @@
-HEAD
-const jsonServer = require('json-server');
-const cors = require('cors');
-const path = require('path');
-
-const server = jsonServer.create();
-const router = jsonServer.router(path.join(__dirname, 'db.json'));
-const middlewares = jsonServer.defaults();
-
-server.use(cors());
-server.use(middlewares);
-server.use('/api', router);
-
-// Export para Vercel
-module.exports = server;
-
 const express = require('express');
 const axios = require('axios');
 const cors = require('cors');
@@ -22,7 +6,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-// Usa tu ID real de Google Drive
+// ✅ USA TU ID REAL de Google Drive
 const DB_URL = 'https://drive.google.com/uc?export=download&id=1zMA50U_5IDNZjxxuert2egrZwkM3lQqp';
 
 let dbData = null;
@@ -36,9 +20,10 @@ async function loadData() {
     dbData = response.data;
     lastUpdate = new Date();
     console.log('✅ Datos cargados correctamente');
-    console.log(`📊 Total de productos: ${dbData?.products?.length || 0}`);
+    console.log(`📊 Total de productos: ${dbData?.productos?.length || 0}`);
   } catch (error) {
     console.error('❌ Error cargando datos:', error.message);
+    console.error('Detalles del error:', error.response?.data || error.message);
   }
 }
 
@@ -48,17 +33,17 @@ loadData();
 // Recargar datos cada 30 minutos (opcional)
 setInterval(loadData, 30 * 60 * 1000);
 
-// Rutas de la API
-app.get('/api/products', (req, res) => {
+// ✅ RUTAS ACTUALIZADAS - usa "productos" en lugar de "products"
+app.get('/api/productos', (req, res) => {
   if (!dbData) {
     return res.status(503).json({ 
       error: 'Los datos aún se están cargando, intenta en unos segundos' 
     });
   }
-  res.json(dbData.products || []);
+  res.json(dbData.productos || []);
 });
 
-app.get('/api/products/:id', (req, res) => {
+app.get('/api/productos/:id', (req, res) => {
   if (!dbData) {
     return res.status(503).json({ 
       error: 'Los datos aún se están cargando' 
@@ -66,16 +51,30 @@ app.get('/api/products/:id', (req, res) => {
   }
   
   const productId = parseInt(req.params.id);
-  const product = dbData.products.find(p => p.id === productId);
+  const producto = dbData.productos.find(p => p.IdProducto === productId);
   
-  if (!product) {
+  if (!producto) {
     return res.status(404).json({ error: 'Producto no encontrado' });
   }
-  res.json(product);
+  res.json(producto);
+});
+
+// Buscar productos por categoría
+app.get('/api/productos/categoria/:categoria', (req, res) => {
+  if (!dbData) {
+    return res.status(503).json({ error: 'Datos no cargados' });
+  }
+  
+  const categoria = req.params.categoria.toLowerCase();
+  const resultados = dbData.productos.filter(producto =>
+    producto.Categoria.toLowerCase().includes(categoria)
+  );
+  
+  res.json(resultados);
 });
 
 // Buscar productos por nombre
-app.get('/api/search', (req, res) => {
+app.get('/api/buscar', (req, res) => {
   if (!dbData) {
     return res.status(503).json({ error: 'Datos no cargados' });
   }
@@ -85,11 +84,22 @@ app.get('/api/search', (req, res) => {
     return res.status(400).json({ error: 'Parámetro de búsqueda requerido' });
   }
   
-  const results = dbData.products.filter(product =>
-    product.name.toLowerCase().includes(query)
+  const resultados = dbData.productos.filter(producto =>
+    producto.NombreArchivo.toLowerCase().includes(query) ||
+    producto.Categoria.toLowerCase().includes(query)
   );
   
-  res.json(results);
+  res.json(resultados);
+});
+
+// Obtener todas las categorías únicas
+app.get('/api/categorias', (req, res) => {
+  if (!dbData) {
+    return res.status(503).json({ error: 'Datos no cargados' });
+  }
+  
+  const categorias = [...new Set(dbData.productos.map(p => p.Categoria))];
+  res.json(categorias);
 });
 
 // Ruta para ver el estado del servidor
@@ -97,7 +107,7 @@ app.get('/api/status', (req, res) => {
   res.json({
     status: dbData ? 'active' : 'loading',
     lastUpdate: lastUpdate,
-    totalProducts: dbData?.products?.length || 0,
+    totalProductos: dbData?.productos?.length || 0,
     dataSource: 'Google Drive'
   });
 });
@@ -107,11 +117,24 @@ app.get('/health', (req, res) => {
   res.json({ status: 'OK', timestamp: new Date().toISOString() });
 });
 
+// Ruta principal
+app.get('/', (req, res) => {
+  res.json({
+    message: 'API de Productos funcionando',
+    endpoints: {
+      productos: '/api/productos',
+      categorias: '/api/categorias',
+      buscar: '/api/buscar?q=texto',
+      status: '/api/status'
+    }
+  });
+});
+
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
   console.log(`🚀 Servidor ejecutándose en puerto ${PORT}`);
   console.log(`📊 API disponible en: http://localhost:${PORT}/api`);
+  console.log(`🔗 Datos cargados desde: ${DB_URL}`);
 });
 
 module.exports = app;
-
